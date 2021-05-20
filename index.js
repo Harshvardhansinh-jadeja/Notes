@@ -1,4 +1,4 @@
-console.log("hello beautiful");
+// console.log("hello beautiful");
 showNotes();
 
 let btn = document.getElementById('addBtn').addEventListener("click",function (e) {
